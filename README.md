@@ -1,4 +1,4 @@
-- [for linux users](https://github.com/Quadrat-Space/dm-alerts/blob/qs/linux-readme)
+- [for linux users](https://github.com/Quadrat-Space/dm-alerts/blob/qs/linux-readme):
   # dm-alerts
 
 dm-alerts is a Discord bot created by the [<Q/S> team](https://qs-e.space/community) and [Quadrat Ik (Space)](https://qs-e.space/bio) for sending notifications to all members of a server.
@@ -114,7 +114,7 @@ We welcome contributions to improve and enhance dm-alerts. If you would like to 
 
 Feel free to contribute to this project or report issues on the GitHub repository.
 
-- [for windows users](https://github.com/Quadrat-Space/dm-alerts/blob/qs/windows-readme)
+- [for windows users](https://github.com/Quadrat-Space/dm-alerts/blob/qs/windows-readme):
 # dm-alerts
 
 dm-alerts is a Discord bot created by the [<Q/S> team](https://qs-e.space/community) and [Quadrat Ik (Space)](https://qs-e.space/bio) for sending notifications to all members of a server.
