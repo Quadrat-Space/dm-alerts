@@ -1,0 +1,10 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "?",
+    "success_notification_user_id": "YOUR_NOTIFY_USER_ID",
+    "allowed_user_id": "YOUR_ALLOWED_USER_UD",
+    "message_limit": 15,
+    "message_period_minutes": 1,
+    "archive_folder": "archive",
+    "default_guild_id": "YOUR_DEFAULT_GUILD_ID"
+}
